@@ -54,7 +54,7 @@ time.sleep(1.5)
 print()
 print(B+"="*60)
 time.sleep(1.5)
-Print("""
+print("""
 \033[1;93m _____ ____  _   _             """)
 time.sleep(1.5)             
 print("""\033[1;95m| ____| __ )| \ | |            """)  
