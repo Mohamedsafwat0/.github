@@ -38,15 +38,7 @@ Etislat = 'https://raw.githubusercontent.com/Mohamedsafwat0/.github/main/2H_etis
 def main():
     clear_screen()
     
-#Color
-Z = '\033[1;31m' #احمر
-X = '\033[1;33m' #اصفر
-Z1 = '\033[2;31m' #احمر ثاني
-F = '\033[2;32m' #اخضر
-A = '\033[2;34m'#ازرق
-C = '\033[2;35m' #وردي
-B = '\033[2;36m'#سمائي
-Y = '\033[1;34m' #ازرق فاتح
+
 
 print(X+"----------------------  Welcome My Scripts -----------------")
 time.sleep(1.5)
