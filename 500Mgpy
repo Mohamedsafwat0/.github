@@ -14,7 +14,7 @@ E = '\033[1;31m'
 B = '\033[2;36m'
 G = '\033[1;32m'
 S = '\033[1;33m'
-print(F+"---------  Welcome My Script {Carde El3ezwa } --------")
+print(F+"---------  Welcome My Script {500 MG Orange} --------")
 time.sleep(1.5)
 print()
 print(B+"="*60)
