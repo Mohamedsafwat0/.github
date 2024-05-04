@@ -109,20 +109,7 @@ elif number == 3:
         Mo = spam2
 elif number == 4:
         Mo = Etislat
-elif number == 5:
-        Mo = views
-elif number == 6:
-        jo = dvoda
-elif number == 7:
-        jo = Etislat
-elif number == 8:
-        jo = id
-elif number == 9:
-        jo = Followers
-elif number == 10:
-        jo = Spotify
-elif number == 11:
-        jo = Watchit
+
 else:
         print("Wrong choice❌❌")
         
