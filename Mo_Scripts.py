@@ -94,8 +94,11 @@ time.sleep(1.5)
 print()
 print(B+"""
 [1] 500 mega Orange
+
 [2] spam WhatsApp 
+
 [3] spam sms all Network 
+
 [4] Two hours Etisalat of free social  
  
 """)
