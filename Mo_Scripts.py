@@ -53,7 +53,7 @@ time.sleep(1.5)
 print()
 print(B+"="*60)
 time.sleep(1.5)
-print("""
+Print("""
 \033[1;93m _____ ____  _   _             """)
 time.sleep(1.5)             
 print("""\033[1;95m| ____| __ )| \ | |            """)  
@@ -92,8 +92,8 @@ time.sleep(1.5)
 print(B+"="*60)
 time.sleep(1.5)
 print()
-print(A+"""
-[1] 500 mega Orange
+print(Z+"""
+[1] 500 Mg Orange
 
 [2] spam WhatsApp 
 
@@ -102,7 +102,7 @@ print(A+"""
 [4] Two hours Etisalat of free social  
  
 """)
-number = int(input(Y+"Choose the script: \033[1;33m"))
+number = int(input(F+"Choose The Scripts Pro: \033[1;33m"))
 clear_screen()  # مسح الشاشة بعد اختيار المستخدم لرقم
 if number == 1:
         Mo = m500
