@@ -30,7 +30,7 @@ light_green_color = '\033[1;32m'
 light_yellow_color = '\033[1;33m'
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
-m500 = 'https://raw.githubusercontent.com/junku1/junku1/main/500%20%D9%85%D9%8A%D8%AC%D8%A7%20%D8%A7%D9%88%D8%B1%D9%86%D8%AC.py'
+m500 = 'https://raw.githubusercontent.com/Mohamedsafwat0/.github/main/500Mg.py'
 spam = 'https://raw.githubusercontent.com/junku1/junku1/main/spam%20whats%20.py'
 spam2 = 'https://raw.githubusercontent.com/junku1/junku1/main/spam%20sms.py'
 like = 'https://raw.githubusercontent.com/junku1/junku1/main/%D9%84%D9%8A%D9%83%D8%A7%D8%AA%20%D8%A7%D9%86%D8%B3%D8%AA%D8%AC%D8%B1%D8%A7%D9%85.py'
