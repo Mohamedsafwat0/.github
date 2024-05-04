@@ -92,7 +92,7 @@ time.sleep(1.5)
 print(B+"="*60)
 time.sleep(1.5)
 print()
-print(B+"""
+print(A+"""
 [1] 500 mega Orange
 
 [2] spam WhatsApp 
@@ -102,7 +102,7 @@ print(B+"""
 [4] Two hours Etisalat of free social  
  
 """)
-number = int(input(Y+"Choose the script: "))
+number = int(input(Y+"Choose the script: \033[1;33m"))
 clear_screen()  # مسح الشاشة بعد اختيار المستخدم لرقم
 if number == 1:
         Mo = m500
